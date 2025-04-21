@@ -5,4 +5,5 @@ Foi uma verdadeira honra participar desse programa. Os conhecimentos adquiridos 
 Sou grato à Rocketseat por proporcionar uma experiência tão enriquecedora e por me ajudar a construir uma base sólida para minha carreira em desenvolvimento.
 🚀 Apenas o começo de muitas conquistas!
 
-![Uploading Captura de tela 2025-04-20 221536.png…]()
+![Captura de tela 2025-04-20 221536](https://github.com/user-attachments/assets/dd1772a6-1488-4548-bc92-c3c7b2b18b27)
+<img src="![Uploading Captura de tela 2025-04-20 221536.png…]()">
