@@ -4,4 +4,5 @@ O certificado que recebi não é apenas um documento, mas um símbolo de perseve
 Foi uma verdadeira honra participar desse programa. Os conhecimentos adquiridos no projeto "Liketree" expandiram minhas habilidades técnicas e me ensinaram a importância da consistência e do aprendizado contínuo.
 Sou grato à Rocketseat por proporcionar uma experiência tão enriquecedora e por me ajudar a construir uma base sólida para minha carreira em desenvolvimento.
 🚀 Apenas o começo de muitas conquistas!
-[certificate.pdf](https://github.com/user-attachments/files/19827980/certificate.pdf)
+
+![Uploading Captura de tela 2025-04-20 221536.png…]()
